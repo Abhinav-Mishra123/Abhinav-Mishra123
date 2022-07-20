@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Abhinav-Mishra123
-- 👀 I’m interested in Google
+- 👀 I’m interested in Tech
 - 🌱 I’m currently learning Front end development
-- 💞️ I’m looking to collaborate on Google
 - 📫 How to reach me contact online anywhere
+learning is going on ---------------
 
 <!---
 Abhinav-Mishra123/Abhinav-Mishra123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
